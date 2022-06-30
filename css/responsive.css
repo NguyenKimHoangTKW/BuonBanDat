@@ -1,0 +1,165 @@
+@media (max-width: 767px) {
+	.container iframe{
+		width:100% !important;
+		height:350px !important;	
+	}
+}
+@media (max-width: 480px) {
+	.estate_hot .estate_hot_label{
+		height:auto;
+		line-height:26px;
+		padding-top:8px;	
+	}
+	.container {
+		text-align:justify;
+	}
+	.infomation_contnet_pc{
+		display:none;	
+	}
+	.infomation_contnet_mobile{
+		display:block;;	
+		background-color: #732003;
+    	padding: 10px;
+		color:#FFF;
+	}
+	.infomation_contnet_mobile p{
+		color:#FFF;
+	}
+	.project .project_item{
+		min-height:355px;
+		height:auto !important;	
+	}
+	.section_title_center {
+		font-size: 22px;
+	}
+	.section .section_short {
+		height:67px;
+		overflow:hidden;	
+		margin-bottom: 15px;
+	}
+	.row-mb{
+		margin-left: -12px;
+   	 	margin-right: -12px;	
+	}
+	.banner {
+		height: auto;
+		margin-bottom:5px;
+	}
+	.banner .banner_slide_img {
+		height: 100px;
+	}
+	
+	img.img_contact{
+		width:50%;
+	}
+	.footer .foot_top_menu ul li h2 {
+		font-size: 12px;
+	}
+	.footer .foot_top_menu ul li a {
+		padding:0 4px;
+	}
+	.footer .foot_link {
+		height:auto;
+		line-height: 35px;
+	}
+	.footer .foot_link .foot_link_item {
+		font-size: 11px;
+		margin-right: 10px;
+	}
+	.project_detail .project_detail_title {
+		font-size: 16px;
+		line-height: 30px;
+		margin-top: 10px;
+		margin-bottom: 12px;
+	}
+	.project_detail .project_detail_payment_method .project_detail_payment_method_percent {
+		width: 100%;
+		font-size: 24px;
+		line-height: 27px;
+		position: absolute;
+		left: 0;
+		top: 17px;
+		text-align: center;
+		padding:0 15px;
+	}
+	.project_detail p {
+		margin: 30px 0 16px;
+	}.coccoc-alo-phone.coccoc-alo-show
+	.breadcrumb_in {
+		max-width: 100%;
+		height: 25px;
+		overflow-x: auto;
+		position: relative;
+	}
+	.breadcrumb_in ul {
+		overflow: hidden;
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		width: max-content;
+	}
+	.breadcrumb {
+    	font-size: 13px;
+	}
+	.head_right {
+    	height: 57px;
+	}
+	.top_hotline {
+		text-align:center;	
+	}
+	.logo{
+		position: absolute;	
+		z-index:2;
+	}
+	
+ 	.banner_child {
+		height: auto;;
+		margin-bottom:5px;
+		padding:10px 5px;
+		overflow: visible;
+	}
+	.page_title {
+		font-size:14px;
+		margin-bottom:5px;
+	}
+	.filter .filter_form {
+		 margin-bottom:0;	
+	}
+	.filter .filter_right {
+		text-align: center;
+	}
+	.filter-mobile{
+		display:none;	
+	}
+	.search-pc{
+		display:none;	
+	}
+	.search-mobile{
+		display:block;	
+	}
+	
+	.section .section_title {
+		font-size: 23px;
+		margin: 10px 0;
+		line-height: 35px;
+	}
+	.reg_info .reg_info_text {
+		font-size: 12px;
+		line-height:25px;
+	}
+	.section .section_title {
+    	font-size: 20px;
+	}
+	.footer .foot_info .foot_info_text {
+		font-size: 11px;
+	}
+	.foot_info .col-md-3 {
+		width: calc(100%/2);
+		float:left;
+		min-height:120px;
+	}
+	.project_detail .project_detail_utility .project_detail_utility_text {
+		text-align: left;
+	}
+}
